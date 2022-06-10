@@ -11825,3 +11825,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-bottom: 4rem;
 }
 
+.btn-cv {
+  background-color: rgb(255, 200, 0);
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.btn-cv:hover{
+  background-color: rgb(255, 160, 0);
+}
